@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+
+
+
+
+
+.profile-icon {
+  font-size: 1.5rem;
+}
+
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: #1a2abb;
+  margin-bottom: 30px;
+}
+.create input, .create textarea {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: #2028a5;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.order_Created h2 {
+  font-size: 20px;
+  color: #1a2abb;
+  margin-bottom: 30px;
+}
+.OrderPreview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.OrderPreview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.OrderPreview h2 {
+  font-size: 20px;
+  color: #3849e7;
+  margin-bottom: 8px;
+}
+.Total_Orders h2{
+  font-size: 40px;
+  color: #373c64;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  
+}
+.OrderPreview p {
+  font-size: 20px;
+  color: #373c64;
+  margin-bottom: 5px;
+}
+.OrderPreview a{
+  text-decoration: none;
+}
+.home-description {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.ai-assistant-description {
+  color: #555;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.update-status {
+  margin-top: 20px;
+}
+
+.update-status label {
+  font-weight: bold;
+}
+
+.update-status select {
+  margin-right: 10px;
+}
+
+.update-status button {
+  padding: 5px 10px;
+  background-color: #365eb0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.update-status button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.update-status p {
+  margin-top: 10px;
+  color: #4caf50;
+}
+
+
+
+
+
+
