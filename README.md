@@ -1,10 +1,21 @@
 ﻿# 405-project-spare-parts
  
  we had problems pushing everything into an excting repo so we made this new repo 
- repos : https://github.com/AmmarSayari/cpit499a.git , https://github.com/AmmarSayari/chatai-499.git , https://github.com/moja21/spare-parts-project-2.git , https://github.com/moja21/spare-parts-project.git
+ repos :
+ # php APIs: https://github.com/AmmarSayari/cpit499a.git 
+ 
+# Chat AI nodejs: https://github.com/AmmarSayari/chatai-499.git  
+
+# react first repo https://github.com/moja21/spare-parts-project.git
+
+ # react second repo: https://github.com/moja21/spare-parts-project-2.git 
  
  
- heroku : https://chatai-499-api.herokuapp.com/ , https://spare-parts-php.herokuapp.com/ , # https://spare-parts-services.herokuapp.com/ #
+ heroku : 
+# chatAI nodejs: https://chatai-499-api.herokuapp.com/ 
+# php API: https://spare-parts-php.herokuapp.com/ 
+# full app: https://spare-parts-services.herokuapp.com/ 
+ 
  
  
 division of work :
